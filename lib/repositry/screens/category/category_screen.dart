@@ -159,6 +159,7 @@ class CategoryScreen extends StatelessWidget {
             ),
 
             /// Grocery & Kitchen Items Display
+            /// display
             SizedBox(
               height: 120,
               child: Padding(
